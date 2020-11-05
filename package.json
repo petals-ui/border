@@ -2,9 +2,8 @@
   "name": "@petals/border",
   "version": "0.0.0",
   "description": "Border virtual component",
-  "main": "_all.scss",
-  "style": "all.min.css",
-  "sass": "_all.scss",
+  "main": "style.scss",
+  "sass": "style.scss",
   "scripts": {
     "prebuild": "rm -rf dist",
     "build": "gulp",
