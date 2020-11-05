@@ -1,6 +1,6 @@
 {
   "name": "@petals/border",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Border virtual component",
   "main": "style.scss",
   "sass": "style.scss",
